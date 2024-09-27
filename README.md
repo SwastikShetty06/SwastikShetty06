@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **swastikshetty06ss@gmail.com**
 
-- 📄 Know about my experiences [https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/SWASTIK%20SHETTY%20Resume.pdf](https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/SWASTIK%20SHETTY%20Resume.pdf)
+- 📄 Know about my experiences [Get Resume](https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/SWASTIK%20SHETTY%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/swastik27766013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swastik27766013" height="30" width="40" /></a>
+<a href="https://x.com/SWASTIK27766013?t=sxY75VVg1_dk3CypRhzOAA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swastik27766013" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swastik-shetty-186802235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastik-shetty-186802235" height="30" width="40" /></a>
 <a href="https://instagram.com/_swastik.shetty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_swastik.shetty_" height="30" width="40" /></a>
 </p>
