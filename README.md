@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **swastikshetty06ss@gmail.com**
 
-- 📄 Know about my experiences [Get Resume](https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/SWASTIK%20SHETTY%20Resume.pdf)
+- 📄 Know about my experiences [Get Resume](https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/Swastik%20resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
