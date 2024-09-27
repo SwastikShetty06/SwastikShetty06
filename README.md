@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SwastikShetty06](https://github.com/SwastikShetty06)
+- 👨‍💻 All of my projects are available at [GIThub](https://github.com/SwastikShetty06)
 
 - 📫 How to reach me **swastikshetty06ss@gmail.com**
 
