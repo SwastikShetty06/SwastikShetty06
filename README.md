@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SWASTIK SHETTY</h1>
 <h3 align="center">A passionate frontend developer from India.I am Motivated and detail-oriented Computer Science student pursuing a Bachelor of Computer Application (BCA). Proficient in programming languages including C++, Java, Python, and SQL. Experienced in Database Management Systems (DBMS) and Data Structure Algorithms (DSA).</h3>
 
-🌱 I’m currently learning Node.js<br><br>👨‍💻 All of my projects are available at https://github.com/SwastikShetty06<br><br>📫 How to reach me swastikshetty06ss@gmail.com<br><br>📄 Know about my experiences https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/Swastik%20resume.pdf
+🌱 I’m currently learning Node.js, Express.js, MongoDB<br><br>👨‍💻 All of my projects are available at https://github.com/SwastikShetty06<br><br>📫 How to reach me swastikshetty06ss@gmail.com<br><br>📄 Know about my experiences https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/Swastik%20resume.pdf
 
 
 ## 🌐 Socials:
