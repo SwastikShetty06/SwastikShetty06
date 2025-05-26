@@ -11,7 +11,7 @@ Student | Coder | Creator | Lifelong Learner
 🛠️ Proficient in **C++, Java, Python, SQL** and skilled in **DBMS** & **DSA**  
 🚀 I love building web and mobile apps using **React**, **Flutter**, **Spring Boot**, and **Express.js**  
 👨‍💻 All of my projects are available at: [GitHub](https://github.com/SwastikShetty06)  
-📄 [My Resume](https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/Swastik%20resume.pdf)  
+<!--- 📄 [My Resume](https://swastikshetty06.github.io/Portfolio-Swastik.Shetty/Swastik%20resume.pdf)  --->
 📫 Reach me at: **swastikshetty06ss@gmail.com**
 
 ---
@@ -84,5 +84,4 @@ Student | Coder | Creator | Lifelong Learner
 [![](https://visitcount.itsvg.in/api?id=SwastikShetty06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created with ❤️ by Swastik Shetty -->
-<!-- Inspired by GPRM - https://gprm.itsvg.in -->
 
