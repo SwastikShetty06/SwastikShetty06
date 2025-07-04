@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swastik Shetty</h1>
 <h3 align="center">
 A passionate Full Stack Developer from India 🇮🇳<br>
-Student | Coder | Creator | Lifelong Learner
+Coder | Creator | Lifelong Learner
 </h3>
 
 ---
