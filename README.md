@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Swastik Shetty</h1>
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00C000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+%7C+Flutter+%7C+Java+%7C+Spring+Boot;Open+Source+Enthusiast;Tech+Lover+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00C000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+%7C+Java+%7C+Spring+Boot" alt="Typing SVG" />
 </p>
   <p>Virar West, Maharashtra • <a href="mailto:swastikshetty06ss@gmail.com">swastikshetty06ss@gmail.com</a> • (+91) 9309166232</p>
 
